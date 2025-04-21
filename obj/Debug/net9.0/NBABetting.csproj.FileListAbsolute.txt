@@ -1070,10 +1070,10 @@
 /Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/NBABetting.pdb
 /Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/ref/NBABetting.dll
 /Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/NBABetting.sourcelink.json
-/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.6ftw961ntw.pdb
-/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.jnnl9id9ml.wasm
-/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.jnnl9id9ml.wasm.gz
-/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.6ftw961ntw.pdb.gz
-/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/1ys3ojdtz9-jnnl9id9ml.gz
-/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/6137x0bmia-6ftw961ntw.gz
-/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/80bzu0nzik-xk3o6at8pu.gz
+/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.38fsmavac1.pdb
+/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.7wz5s85sed.wasm
+/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.7wz5s85sed.wasm.gz
+/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.38fsmavac1.pdb.gz
+/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/1ys3ojdtz9-7wz5s85sed.gz
+/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/6137x0bmia-38fsmavac1.gz
+/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/80bzu0nzik-yieqfr0mmo.gz

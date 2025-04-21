@@ -1,33 +1,24 @@
-@page "/about"
+@page "/resources"
 
 <div class="container">
-
     <header class="header">
-        <h1>About</h1>
-        <p>Why we created this platform</p>
+        <h1>Resources</h1>
+        <p>How I was able to create this </p>
 
         <div class="nav-buttons">
             <a href="/" class="btn">Home</a>
             <a href="/begin" class="btn">Begin</a>
-            <a href="/resources" class="btn">Resources</a>
+            <a href="/about" class="btn">About</a>
         </div>
     </header>
 
-    <section class="why">
-        <h2>Why?</h2>
-        <p>As sports betting gets more and more popular, more and more people are getting into gambling.</p>
-        <p>People who thought they would never gamble are gambling.</p>
-        <p>We created Kawhi's Wagers to help people struggling with addiction by offering a fun, risk-free alternative.</p>
+    <section class="how">
+        <h2>How is this possible?</h2>
+        <p>With the help of the NBA public API, we can easily fetch data </p>
+        <p>We can then plug that data into our secret formula to make bets  </p>
     </section>
 
-    <section class="devs">
-        <h2>About Developers</h2>
-        <p>Hello,my name is Hunter Martin. I am a senior at Eastern Michigan University. </p>
-        <p>I created Kawhi's Wagers because I'm witnessing how bad sports betting is getting </p>
-        <p>Also,I wanted to learn how to use Microsoft Blazor WASM since my internship is using that in the tech stack.</p>
-    </section>
-
-     <section class="cta">
+    <section class="cta">
         <h2>Ready to start?</h2>
         <p>Join the fun today and make your first bet! It's easy and risk-free.</p>
         <a href="/bets" class="btn">Place Your First Bet</a>
@@ -36,7 +27,7 @@
 </div>
 
 <style>
-    body {
+        body {
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
@@ -88,7 +79,7 @@
         background-color: #ffcc00;
     }
 
-    .why {
+    .how {
         margin-top: 40px;
         background-color: white;
         color: #333;
@@ -97,32 +88,12 @@
         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     }
 
-    .why h2 {
+    .how h2 {
         color: #CE1141;
         margin-bottom: 20px;
     }
 
-    .why p {
-        font-size: 1.1rem;
-        line-height: 1.6;
-        margin-bottom: 10px;
-    }
-
-    .devs {
-        margin-top: 40px;
-        background-color: white;
-        color: #333;
-        padding: 25px;
-        border-radius: 10px;
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    }
-
-    .devs h2 {
-        color: #CE1141;
-        margin-bottom: 20px;
-    }
-
-    .devs p {
+    .how p {
         font-size: 1.1rem;
         line-height: 1.6;
         margin-bottom: 10px;

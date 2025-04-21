@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NBABetting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e54c76e725c18f6ae180e0820cadef5bc15d00d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15a69dac7978fc63e91360ed8724670eab827959")]
 [assembly: System.Reflection.AssemblyProductAttribute("NBABetting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NBABetting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
