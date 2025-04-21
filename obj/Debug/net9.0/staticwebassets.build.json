@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J4yvwHYPuWJl/5LSbethSVqSd2dfy6JNmL8I7hzOqHI=",
+  "Hash": "z7AhdFI9lryOjvckJxW4Svi78AZZaysflyqnRmOoblU=",
   "Source": "NBABetting",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "avlq3jr2sb",
-      "Integrity": "NjBFS930nnViBoXZkS9rZbx8588aMBtichTSYYB2jMY=",
+      "Fingerprint": "8idte9y9mx",
+      "Integrity": "YCTatTrvxzWAPBE7UsAqYD8oPjJsS1vdYyE4EI0TTZM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -850,8 +850,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "xhklv9zc5g",
-      "Integrity": "+zHXoT8yayv9VIbETQmX9QbhQfYqwNrxyBnPV2YI/Bw=",
+      "Fingerprint": "vs4zquwocn",
+      "Integrity": "D5XyVNm4cb0p326CjHnGKiHu2MiJLYT0J+1wL+J2lyg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/NBABetting.pdb"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "f70rd0xubh",
-      "Integrity": "y/YbbJRNUNRsH8AkbJnU4azmdm+JcOODQuZKXbyBFv4=",
+      "Fingerprint": "3o6qykbt8z",
+      "Integrity": "vTk6KZtBDh3vDQ9ASSLW1F9wCTNzqfFDBEs60eLZOUc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/webcil/NBABetting.wasm"
@@ -4637,12 +4637,12 @@
       "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/1ys3ojdtz9-f70rd0xubh.gz",
+      "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/1ys3ojdtz9-3o6qykbt8z.gz",
       "SourceId": "NBABetting",
       "SourceType": "Computed",
       "ContentRoot": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/NBABetting#[.{fingerprint=f70rd0xubh}]!.wasm.gz",
+      "RelativePath": "_framework/NBABetting#[.{fingerprint=3o6qykbt8z}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4651,8 +4651,8 @@
       "RelatedAsset": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5rymtorfes",
-      "Integrity": "j5nONf11a3XpBABCMIxMg73pIgM75X1C3TsLytWTvq8=",
+      "Fingerprint": "tkd4vs9e6v",
+      "Integrity": "Q2PXD1oQ+JmJDtH1PhFpPW7LJNRqj5wIY31oClOJwuE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.wasm"
@@ -5372,12 +5372,12 @@
       "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Win32.Registry.wasm"
     },
     {
-      "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/6137x0bmia-xhklv9zc5g.gz",
+      "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/6137x0bmia-vs4zquwocn.gz",
       "SourceId": "NBABetting",
       "SourceType": "Computed",
       "ContentRoot": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/NBABetting#[.{fingerprint=xhklv9zc5g}]!.pdb.gz",
+      "RelativePath": "_framework/NBABetting#[.{fingerprint=vs4zquwocn}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5386,8 +5386,8 @@
       "RelatedAsset": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o5vgjask7d",
-      "Integrity": "ROOUvkvFbPDshjQfWwot/vPJ5uCKOJxdOZA3hajFqzw=",
+      "Fingerprint": "ppb9yq9iw6",
+      "Integrity": "c0JtA5bcuTm7MeM9aRA5fmy2JltTHSNBx+E3343Ie80=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.pdb"
@@ -5666,7 +5666,7 @@
       "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/System.Security.SecureString.wasm"
     },
     {
-      "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/80bzu0nzik-avlq3jr2sb.gz",
+      "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/80bzu0nzik-8idte9y9mx.gz",
       "SourceId": "NBABetting",
       "SourceType": "Computed",
       "ContentRoot": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/",
@@ -5680,8 +5680,8 @@
       "RelatedAsset": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1j8hoi2pkr",
-      "Integrity": "bUUV6UsICjtieHCjZgwQPTaHB3C9NFUk2LjFLBAXVZ8=",
+      "Fingerprint": "sf3ultgmpi",
+      "Integrity": "GErAdMSVeZ2rRLFzv7mw84kYor977dvImj8xf0knuEk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -6590,27 +6590,6 @@
       "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/dqh783a3q7-fuej93yp4s.gz",
-      "SourceId": "NBABetting",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/",
-      "BasePath": "/",
-      "RelativePath": "NBABetting#[.{fingerprint=fuej93yp4s}]?.styles.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/bundle/NBABetting.styles.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "tiqax22gwq",
-      "Integrity": "xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/bundle/NBABetting.styles.css"
-    },
-    {
       "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/e2dho9qewf-uk9h1gfypt.gz",
       "SourceId": "NBABetting",
       "SourceType": "Computed",
@@ -6861,27 +6840,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/dotnet.native.wasm"
-    },
-    {
-      "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/f3yns3eruu-fuej93yp4s.gz",
-      "SourceId": "NBABetting",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/",
-      "BasePath": "/",
-      "RelativePath": "NBABetting#[.{fingerprint=fuej93yp4s}]!.bundle.scp.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/projectbundle/NBABetting.bundle.scp.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "tiqax22gwq",
-      "Integrity": "xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/projectbundle/NBABetting.bundle.scp.css"
     },
     {
       "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/fn7hh25g9o-adywr1r9bu.gz",
@@ -9614,48 +9572,6 @@
       "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/System.Resources.ResourceManager.wasm"
     },
     {
-      "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/bundle/NBABetting.styles.css",
-      "SourceId": "NBABetting",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/bundle/",
-      "BasePath": "/",
-      "RelativePath": "NBABetting#[.{fingerprint}]?.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "fuej93yp4s",
-      "Integrity": "58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/bundle/NBABetting.styles.css"
-    },
-    {
-      "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/projectbundle/NBABetting.bundle.scp.css",
-      "SourceId": "NBABetting",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/projectbundle/",
-      "BasePath": "/",
-      "RelativePath": "NBABetting#[.{fingerprint}]!.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "fuej93yp4s",
-      "Integrity": "58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/projectbundle/NBABetting.bundle.scp.css"
-    },
-    {
       "Identity": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/wwwroot/css/app.css",
       "SourceId": "NBABetting",
       "SourceType": "Discovered",
@@ -10705,7 +10621,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NjBFS930nnViBoXZkS9rZbx8588aMBtichTSYYB2jMY=\""
+          "Value": "\"YCTatTrvxzWAPBE7UsAqYD8oPjJsS1vdYyE4EI0TTZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 20:25:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YCTatTrvxzWAPBE7UsAqYD8oPjJsS1vdYyE4EI0TTZM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/80bzu0nzik-8idte9y9mx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081314035"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12297"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GErAdMSVeZ2rRLFzv7mw84kYor977dvImj8xf0knuEk=\""
         },
         {
           "Name": "Last-Modified",
@@ -10714,45 +10669,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NjBFS930nnViBoXZkS9rZbx8588aMBtichTSYYB2jMY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/80bzu0nzik-avlq3jr2sb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081327261"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12295"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bUUV6UsICjtieHCjZgwQPTaHB3C9NFUk2LjFLBAXVZ8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 19:55:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10768,19 +10684,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NjBFS930nnViBoXZkS9rZbx8588aMBtichTSYYB2jMY=\""
+          "Value": "W/\"YCTatTrvxzWAPBE7UsAqYD8oPjJsS1vdYyE4EI0TTZM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NjBFS930nnViBoXZkS9rZbx8588aMBtichTSYYB2jMY="
+          "Value": "sha256-YCTatTrvxzWAPBE7UsAqYD8oPjJsS1vdYyE4EI0TTZM="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/80bzu0nzik-avlq3jr2sb.gz",
+      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/80bzu0nzik-8idte9y9mx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10705,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12295"
+          "Value": "12297"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10713,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bUUV6UsICjtieHCjZgwQPTaHB3C9NFUk2LjFLBAXVZ8=\""
+          "Value": "\"GErAdMSVeZ2rRLFzv7mw84kYor977dvImj8xf0knuEk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 19:55:23 GMT"
+          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10735,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bUUV6UsICjtieHCjZgwQPTaHB3C9NFUk2LjFLBAXVZ8="
+          "Value": "sha256-GErAdMSVeZ2rRLFzv7mw84kYor977dvImj8xf0knuEk="
         }
       ]
     },
@@ -21987,7 +21903,7 @@
       ]
     },
     {
-      "Route": "_framework/NBABetting.f70rd0xubh.wasm",
+      "Route": "_framework/NBABetting.3o6qykbt8z.wasm",
       "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21997,7 +21913,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15637"
+          "Value": "16149"
         },
         {
           "Name": "Content-Type",
@@ -22005,11 +21921,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y/YbbJRNUNRsH8AkbJnU4azmdm+JcOODQuZKXbyBFv4=\""
+          "Value": "\"vTk6KZtBDh3vDQ9ASSLW1F9wCTNzqfFDBEs60eLZOUc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
+          "Value": "Mon, 21 Apr 2025 20:25:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22019,7 +21935,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f70rd0xubh"
+          "Value": "3o6qykbt8z"
         },
         {
           "Name": "label",
@@ -22027,18 +21943,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-y/YbbJRNUNRsH8AkbJnU4azmdm+JcOODQuZKXbyBFv4="
+          "Value": "sha256-vTk6KZtBDh3vDQ9ASSLW1F9wCTNzqfFDBEs60eLZOUc="
         }
       ]
     },
     {
-      "Route": "_framework/NBABetting.f70rd0xubh.wasm",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/1ys3ojdtz9-f70rd0xubh.gz",
+      "Route": "_framework/NBABetting.3o6qykbt8z.wasm",
+      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/1ys3ojdtz9-3o6qykbt8z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000176335743"
+          "Quality": "0.000173973556"
         }
       ],
       "ResponseHeaders": [
@@ -22048,15 +21964,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5670"
+          "Value": "5747"
         },
         {
           "Name": "ETag",
-          "Value": "\"j5nONf11a3XpBABCMIxMg73pIgM75X1C3TsLytWTvq8=\""
+          "Value": "\"Q2PXD1oQ+JmJDtH1PhFpPW7LJNRqj5wIY31oClOJwuE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
+          "Value": "Mon, 21 Apr 2025 20:25:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22076,13 +21992,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"y/YbbJRNUNRsH8AkbJnU4azmdm+JcOODQuZKXbyBFv4=\""
+          "Value": "W/\"vTk6KZtBDh3vDQ9ASSLW1F9wCTNzqfFDBEs60eLZOUc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f70rd0xubh"
+          "Value": "3o6qykbt8z"
         },
         {
           "Name": "label",
@@ -22090,13 +22006,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-y/YbbJRNUNRsH8AkbJnU4azmdm+JcOODQuZKXbyBFv4="
+          "Value": "sha256-vTk6KZtBDh3vDQ9ASSLW1F9wCTNzqfFDBEs60eLZOUc="
         }
       ]
     },
     {
-      "Route": "_framework/NBABetting.f70rd0xubh.wasm.gz",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/1ys3ojdtz9-f70rd0xubh.gz",
+      "Route": "_framework/NBABetting.3o6qykbt8z.wasm.gz",
+      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/1ys3ojdtz9-3o6qykbt8z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22105,7 +22021,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5670"
+          "Value": "5747"
         },
         {
           "Name": "Content-Type",
@@ -22113,11 +22029,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j5nONf11a3XpBABCMIxMg73pIgM75X1C3TsLytWTvq8=\""
+          "Value": "\"Q2PXD1oQ+JmJDtH1PhFpPW7LJNRqj5wIY31oClOJwuE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
+          "Value": "Mon, 21 Apr 2025 20:25:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22135,7 +22051,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f70rd0xubh"
+          "Value": "3o6qykbt8z"
         },
         {
           "Name": "label",
@@ -22143,7 +22059,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j5nONf11a3XpBABCMIxMg73pIgM75X1C3TsLytWTvq8="
+          "Value": "sha256-Q2PXD1oQ+JmJDtH1PhFpPW7LJNRqj5wIY31oClOJwuE="
         }
       ]
     },
@@ -22158,7 +22074,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17976"
+          "Value": "18976"
         },
         {
           "Name": "Content-Type",
@@ -22166,11 +22082,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+zHXoT8yayv9VIbETQmX9QbhQfYqwNrxyBnPV2YI/Bw=\""
+          "Value": "\"D5XyVNm4cb0p326CjHnGKiHu2MiJLYT0J+1wL+J2lyg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:11 GMT"
+          "Value": "Mon, 21 Apr 2025 20:25:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22180,18 +22096,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+zHXoT8yayv9VIbETQmX9QbhQfYqwNrxyBnPV2YI/Bw="
+          "Value": "sha256-D5XyVNm4cb0p326CjHnGKiHu2MiJLYT0J+1wL+J2lyg="
         }
       ]
     },
     {
       "Route": "_framework/NBABetting.pdb",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/6137x0bmia-xhklv9zc5g.gz",
+      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/6137x0bmia-vs4zquwocn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081017581"
+          "Quality": "0.000075443229"
         }
       ],
       "ResponseHeaders": [
@@ -22201,15 +22117,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12342"
+          "Value": "13254"
         },
         {
           "Name": "ETag",
-          "Value": "\"ROOUvkvFbPDshjQfWwot/vPJ5uCKOJxdOZA3hajFqzw=\""
+          "Value": "\"c0JtA5bcuTm7MeM9aRA5fmy2JltTHSNBx+E3343Ie80=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
+          "Value": "Mon, 21 Apr 2025 20:25:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22229,19 +22145,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+zHXoT8yayv9VIbETQmX9QbhQfYqwNrxyBnPV2YI/Bw=\""
+          "Value": "W/\"D5XyVNm4cb0p326CjHnGKiHu2MiJLYT0J+1wL+J2lyg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+zHXoT8yayv9VIbETQmX9QbhQfYqwNrxyBnPV2YI/Bw="
+          "Value": "sha256-D5XyVNm4cb0p326CjHnGKiHu2MiJLYT0J+1wL+J2lyg="
         }
       ]
     },
     {
       "Route": "_framework/NBABetting.pdb.gz",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/6137x0bmia-xhklv9zc5g.gz",
+      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/6137x0bmia-vs4zquwocn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22250,7 +22166,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12342"
+          "Value": "13254"
         },
         {
           "Name": "Content-Type",
@@ -22258,11 +22174,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ROOUvkvFbPDshjQfWwot/vPJ5uCKOJxdOZA3hajFqzw=\""
+          "Value": "\"c0JtA5bcuTm7MeM9aRA5fmy2JltTHSNBx+E3343Ie80=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
+          "Value": "Mon, 21 Apr 2025 20:25:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22280,7 +22196,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ROOUvkvFbPDshjQfWwot/vPJ5uCKOJxdOZA3hajFqzw="
+          "Value": "sha256-c0JtA5bcuTm7MeM9aRA5fmy2JltTHSNBx+E3343Ie80="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NBABetting.vs4zquwocn.pdb",
+      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D5XyVNm4cb0p326CjHnGKiHu2MiJLYT0J+1wL+J2lyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 20:25:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vs4zquwocn"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NBABetting.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D5XyVNm4cb0p326CjHnGKiHu2MiJLYT0J+1wL+J2lyg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NBABetting.vs4zquwocn.pdb",
+      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/6137x0bmia-vs4zquwocn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000075443229"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13254"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c0JtA5bcuTm7MeM9aRA5fmy2JltTHSNBx+E3343Ie80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 20:25:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"D5XyVNm4cb0p326CjHnGKiHu2MiJLYT0J+1wL+J2lyg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vs4zquwocn"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NBABetting.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D5XyVNm4cb0p326CjHnGKiHu2MiJLYT0J+1wL+J2lyg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/NBABetting.vs4zquwocn.pdb.gz",
+      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/6137x0bmia-vs4zquwocn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c0JtA5bcuTm7MeM9aRA5fmy2JltTHSNBx+E3343Ie80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 20:25:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vs4zquwocn"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/NBABetting.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c0JtA5bcuTm7MeM9aRA5fmy2JltTHSNBx+E3343Ie80="
         }
       ]
     },
@@ -22295,7 +22372,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15637"
+          "Value": "16149"
         },
         {
           "Name": "Content-Type",
@@ -22303,11 +22380,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y/YbbJRNUNRsH8AkbJnU4azmdm+JcOODQuZKXbyBFv4=\""
+          "Value": "\"vTk6KZtBDh3vDQ9ASSLW1F9wCTNzqfFDBEs60eLZOUc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
+          "Value": "Mon, 21 Apr 2025 20:25:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22317,18 +22394,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y/YbbJRNUNRsH8AkbJnU4azmdm+JcOODQuZKXbyBFv4="
+          "Value": "sha256-vTk6KZtBDh3vDQ9ASSLW1F9wCTNzqfFDBEs60eLZOUc="
         }
       ]
     },
     {
       "Route": "_framework/NBABetting.wasm",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/1ys3ojdtz9-f70rd0xubh.gz",
+      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/1ys3ojdtz9-3o6qykbt8z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000176335743"
+          "Quality": "0.000173973556"
         }
       ],
       "ResponseHeaders": [
@@ -22338,15 +22415,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5670"
+          "Value": "5747"
         },
         {
           "Name": "ETag",
-          "Value": "\"j5nONf11a3XpBABCMIxMg73pIgM75X1C3TsLytWTvq8=\""
+          "Value": "\"Q2PXD1oQ+JmJDtH1PhFpPW7LJNRqj5wIY31oClOJwuE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
+          "Value": "Mon, 21 Apr 2025 20:25:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22366,19 +22443,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"y/YbbJRNUNRsH8AkbJnU4azmdm+JcOODQuZKXbyBFv4=\""
+          "Value": "W/\"vTk6KZtBDh3vDQ9ASSLW1F9wCTNzqfFDBEs60eLZOUc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y/YbbJRNUNRsH8AkbJnU4azmdm+JcOODQuZKXbyBFv4="
+          "Value": "sha256-vTk6KZtBDh3vDQ9ASSLW1F9wCTNzqfFDBEs60eLZOUc="
         }
       ]
     },
     {
       "Route": "_framework/NBABetting.wasm.gz",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/1ys3ojdtz9-f70rd0xubh.gz",
+      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/1ys3ojdtz9-3o6qykbt8z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22387,7 +22464,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5670"
+          "Value": "5747"
         },
         {
           "Name": "Content-Type",
@@ -22395,11 +22472,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j5nONf11a3XpBABCMIxMg73pIgM75X1C3TsLytWTvq8=\""
+          "Value": "\"Q2PXD1oQ+JmJDtH1PhFpPW7LJNRqj5wIY31oClOJwuE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
+          "Value": "Mon, 21 Apr 2025 20:25:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22417,168 +22494,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j5nONf11a3XpBABCMIxMg73pIgM75X1C3TsLytWTvq8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NBABetting.xhklv9zc5g.pdb",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/bin/Debug/net9.0/wwwroot/_framework/NBABetting.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17976"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+zHXoT8yayv9VIbETQmX9QbhQfYqwNrxyBnPV2YI/Bw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xhklv9zc5g"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NBABetting.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+zHXoT8yayv9VIbETQmX9QbhQfYqwNrxyBnPV2YI/Bw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NBABetting.xhklv9zc5g.pdb",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/6137x0bmia-xhklv9zc5g.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081017581"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12342"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ROOUvkvFbPDshjQfWwot/vPJ5uCKOJxdOZA3hajFqzw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"+zHXoT8yayv9VIbETQmX9QbhQfYqwNrxyBnPV2YI/Bw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xhklv9zc5g"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NBABetting.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+zHXoT8yayv9VIbETQmX9QbhQfYqwNrxyBnPV2YI/Bw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/NBABetting.xhklv9zc5g.pdb.gz",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/6137x0bmia-xhklv9zc5g.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12342"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ROOUvkvFbPDshjQfWwot/vPJ5uCKOJxdOZA3hajFqzw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xhklv9zc5g"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/NBABetting.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ROOUvkvFbPDshjQfWwot/vPJ5uCKOJxdOZA3hajFqzw="
+          "Value": "sha256-Q2PXD1oQ+JmJDtH1PhFpPW7LJNRqj5wIY31oClOJwuE="
         }
       ]
     },
@@ -85025,602 +84941,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-5ax0m6ESo/8l7YFD9GD0vUlM6B5ObVECDpupcbMthR4="
-        }
-      ]
-    },
-    {
-      "Route": "NBABetting.bundle.scp.css",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/f3yns3eruu-fuej93yp4s.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001680672269"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "594"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A="
-        }
-      ]
-    },
-    {
-      "Route": "NBABetting.bundle.scp.css",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/projectbundle/NBABetting.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1647"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A="
-        }
-      ]
-    },
-    {
-      "Route": "NBABetting.bundle.scp.css.gz",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/f3yns3eruu-fuej93yp4s.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "594"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0="
-        }
-      ]
-    },
-    {
-      "Route": "NBABetting.fuej93yp4s.bundle.scp.css",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/f3yns3eruu-fuej93yp4s.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001680672269"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "594"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fuej93yp4s"
-        },
-        {
-          "Name": "label",
-          "Value": "NBABetting.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A="
-        }
-      ]
-    },
-    {
-      "Route": "NBABetting.fuej93yp4s.bundle.scp.css",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/projectbundle/NBABetting.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1647"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fuej93yp4s"
-        },
-        {
-          "Name": "label",
-          "Value": "NBABetting.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A="
-        }
-      ]
-    },
-    {
-      "Route": "NBABetting.fuej93yp4s.bundle.scp.css.gz",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/f3yns3eruu-fuej93yp4s.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "594"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fuej93yp4s"
-        },
-        {
-          "Name": "label",
-          "Value": "NBABetting.bundle.scp.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0="
-        }
-      ]
-    },
-    {
-      "Route": "NBABetting.fuej93yp4s.styles.css",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/dqh783a3q7-fuej93yp4s.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001680672269"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "594"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fuej93yp4s"
-        },
-        {
-          "Name": "label",
-          "Value": "NBABetting.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A="
-        }
-      ]
-    },
-    {
-      "Route": "NBABetting.fuej93yp4s.styles.css",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/bundle/NBABetting.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1647"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fuej93yp4s"
-        },
-        {
-          "Name": "label",
-          "Value": "NBABetting.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A="
-        }
-      ]
-    },
-    {
-      "Route": "NBABetting.fuej93yp4s.styles.css.gz",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/dqh783a3q7-fuej93yp4s.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "594"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fuej93yp4s"
-        },
-        {
-          "Name": "label",
-          "Value": "NBABetting.styles.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0="
-        }
-      ]
-    },
-    {
-      "Route": "NBABetting.styles.css",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/dqh783a3q7-fuej93yp4s.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001680672269"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "594"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A="
-        }
-      ]
-    },
-    {
-      "Route": "NBABetting.styles.css",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/bundle/NBABetting.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1647"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-58bMW9Jzh4oWUj/wEzlBNfRDIuggEtAPWm6fx+iGn1A="
-        }
-      ]
-    },
-    {
-      "Route": "NBABetting.styles.css.gz",
-      "AssetFile": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/compressed/dqh783a3q7-fuej93yp4s.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "594"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 20:15:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xc1UkhNMR2p5uFpfQwHEfoxTWBkVCeUitt1eNMLNiP0="
         }
       ]
     },

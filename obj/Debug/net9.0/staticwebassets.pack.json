@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
     {
-      "Id": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/obj/Debug/net9.0/scopedcss/bundle/NBABetting.styles.css",
-      "PackagePath": "staticwebassets/NBABetting.styles.css"
-    },
-    {
       "Id": "/Users/huntermartin/Desktop/NBABettingGame/NBABetting/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },
