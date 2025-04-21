@@ -1,0 +1,141 @@
+﻿@page "/"
+
+@* <PageTitle>Home</PageTitle> *@
+
+<div class="container">
+    <!--header section -->
+    <header class="header">
+        <h1>Kawhi's Wagers</h1>
+        <p>Play fun bets without spending real money!</p>
+
+        <div class="nav-buttons">
+            <a href="#about" class="btn">About</a>
+            <a href="#begin" class="btn">Begin</a>
+            <a href="#resources" class="btn">Resources</a>
+        </div>
+    </header>
+
+    <!--about section -->
+    <section class="about">
+        <h2>About Us</h2>
+        <p>Welcome to <b>Kawhi's Wagers</b> Here, you can wager fun bets on your favorite NBA players without risking any real money. Bet, track your progress, and enjoy the excitement of the game!</p>
+    </section>
+
+    <!--features section -->
+    <section class="features">
+        <h2>Features</h2>
+        <ul>
+            <li>Easy-to-use betting</li>
+            <li>Track NBA player stats and performances.</li>
+            <li>Compete with friends and fellow users.</li>
+            <li>Completely free — no real money involved!</li>
+        </ul>
+    </section>
+
+    <!--call to Action -->
+    <section class="cta">
+        <h2>Ready to start?</h2>
+        <p>Join the fun today and make your first bet! It's easy and risk-free.</p>
+        <a href="/bets" class="btn">Place Your First Bet</a>
+    </section>
+</div>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .header {
+        text-align: center;
+        margin-top: 50px;
+        padding: 20px;
+        background-color: #CE1141;
+        color: white;
+        border-radius: 8px;
+    }
+
+    .header h1 {
+        font-size: 2.5rem;
+    }
+
+    .header p {
+        font-size: 1.2rem;
+    }
+
+    .about {
+        margin-top: 40px;
+        background-color: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .about h2 {
+        font-size: 2rem;
+        color: #CE1141;
+    }
+
+    .features {
+        margin-top: 40px;
+        background-color: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .features h2 {
+        font-size: 2rem;
+        color: #CE1141;
+    }
+
+    .features ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+
+    .features ul li {
+        font-size: 1.1rem;
+        margin-bottom: 10px;
+    }
+
+    .cta {
+        margin-top: 40px;
+        text-align: center;
+        padding: 20px;
+        background-color: #CE1141;
+        color: white;
+        border-radius: 8px;
+    }
+
+    .cta h2 {
+        font-size: 2rem;
+    }
+
+    .cta p {
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+    }
+
+    .btn {
+        padding: 12px 30px;
+        font-size: 1.1rem;
+        background-color: #ffd700;
+        color: black;
+        text-decoration: none;
+        border-radius: 4px;
+        transition: background-color 0.3s ease;
+    }
+
+    .btn:hover {
+        background-color: #ffcc00;
+    }
+</style>
