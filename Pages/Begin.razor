@@ -1,0 +1,98 @@
+@page "/begin"
+
+<div class="container">
+    <header class="header">
+        <h1>Kawhi's Wagers</h1>
+        <p>LET THE GAMBLING BEGIN!!</p>
+
+        <div class="nav-buttons">
+            <a href="/about" class="btn">About</a>
+            <a href="/" class="btn">Home</a>
+            <a href="/resources" class="btn">Resources</a>
+        </div>
+    </header>
+
+    <section class="search">
+        <h2>Search for an NBA Player</h2>
+        <input type="text" @bind="searchQuery" placeholder="e.g. LeBron James" class="search-box" />
+        <button class="btn" @onclick="SearchPlayer">Search</button>
+    </section>
+
+    @if (!string.IsNullOrEmpty(resultMessage))
+    {
+        <p class="result">@resultMessage</p>
+    }
+</div>
+
+<style>
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+    }
+
+    .header {
+        text-align: center;
+        margin-top: 30px;
+        padding: 20px;
+        background-color: #CE1141;
+        color: white;
+        border-radius: 8px;
+    }
+
+    .header h1 {
+        font-size: 2.5rem;
+    }
+
+    .nav-buttons {
+        margin-top: 15px;
+    }
+
+    .btn {
+        margin: 5px;
+        padding: 10px 20px;
+        font-size: 1rem;
+        background-color: #ffd700;
+        color: black;
+        text-decoration: none;
+        border-radius: 4px;
+        transition: background-color 0.3s ease;
+    }
+
+    .btn:hover {
+        background-color: #ffcc00;
+    }
+
+    .search {
+        margin-top: 40px;
+        text-align: center;
+    }
+
+    .search-box {
+        padding: 10px;
+        font-size: 1rem;
+        width: 250px;
+        margin-right: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    .result {
+        margin-top: 20px;
+        font-weight: bold;
+        color: #CE1141;
+        text-align: center;
+    }
+</style>
+
+
+@code {
+    private string searchQuery = string.Empty;
+    private string resultMessage = string.Empty;
+
+    private void SearchPlayer()
+    {
+        resultMessage = $"Searching for {searchQuery}...";
+    }
+}
